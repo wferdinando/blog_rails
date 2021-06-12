@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "BlogRails",
+      "database": "\\\\wsl$\\Ubuntu-20.04\\home\\willyan\\Development\\ruby_mvc\\Rails\\blog\\db\\development.sqlite3"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
